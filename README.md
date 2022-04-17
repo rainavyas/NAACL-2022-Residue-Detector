@@ -23,6 +23,7 @@ This repository points to the different Github repositories that have been used 
 
 ## Image Experiments
 
+- [Train, Attack, Detect](https://colab.research.google.com/drive/1uyqXfmKhX0t3E_c7E05Pwp_bkxJes7i3?usp=sharing)
 - [Quantization Analysis](https://github.com/rainavyas/QuantizeTrainCIFAR)
 
 
